@@ -1,0 +1,11 @@
+# Semantic Segmentation
+1. Deep Semantic Segmentation of Natural and Medical Images: A Review
+2. ICENet?
+3. Fast-SCNN: Fast Semantic Segmentation Network
+
+
+
+
+# Object Detection
+1.Imbalance Problems in Object Detection: A Review
+
