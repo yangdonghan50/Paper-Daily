@@ -1,0 +1,19 @@
+------- 2020.02.07 ------
+-- Segmentation:
+
+-- Object Detection:
+1.
+Title: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+- 2019'ICLR
+Author: Mingxing Tan; Quoc V.Le
+Institude: Google Brain
+Motivation: To study model scaling and identity that carefully balancing nertwork depth, width, and resolution,which can lead to better performance
+Method: Design a network by using NAS and scale it uo to obtian a family of models named EfficientNets, also, propose 'compound coefficient'
+
+2.
+Title: EfficientDet: Scalable and Efficient Object Detection
+Author: Mingxing Tan; Ruoming Pang; Quoc V.Le
+Institude: Google Brain
+Motivation: Make model more efficient
+Method: Propose 'BiFPN',a scaling method and a family of networks called EfficientDet
+

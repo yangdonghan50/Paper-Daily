@@ -2,7 +2,8 @@
 1. Deep Semantic Segmentation of Natural and Medical Images: A Review
 2. ICENet?
 3. Fast-SCNN: Fast Semantic Segmentation Network
-
+4. SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection
+5. HRNet!!
 
 
 
