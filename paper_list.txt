@@ -4,6 +4,12 @@
 3. Fast-SCNN: Fast Semantic Segmentation Network
 4. SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection
 5. HRNet!!
+6. 2019_Arxiv_FastFCN
+7. 2018_CVPR_DenseASPP
+8. 2017_CVPR_PointNet
+9. 2018_ECCV_ICNet (High resolution Images)
+10.2018_Arxiv_ BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+11. 2018_Arxiv_Learning a Discriminative Feature Network for Semantic Segmentation
 
 
 
