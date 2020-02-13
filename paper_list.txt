@@ -7,12 +7,24 @@
 6. 2019_Arxiv_FastFCN
 7. 2018_CVPR_DenseASPP
 8. 2017_CVPR_PointNet
-9. 2018_ECCV_ICNet (High resolution Images)
+9. * 2018_ECCV_ICNet (High resolution Images)
 10.2018_Arxiv_ BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
 11. 2018_Arxiv_Learning a Discriminative Feature Network for Semantic Segmentation
 12. 2017_CVPR_RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
-13. 2017_CVPR_SENet
+13. * 2017_CVPR_SENet
 14. 2017_Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
+15 .2019_ICCV_Oral_Expectation-Maximization Attention Networks for Semantic Segmentation
+16. Fast-SCNN
+17. ShelfNet
+18. LightNet
+19. LightNet++
+20. OCNet:Object Context Network for Scene Parsing(OCNet)
+21. EMANet
+22. 2018_ECCV_PSANet
+23. SOLO (outperform the performence of MaskRCNN by He)
+24. 2019_CVPR_APCNet
+
+
 
 
 # Object Detection
