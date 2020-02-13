@@ -10,7 +10,9 @@
 9. 2018_ECCV_ICNet (High resolution Images)
 10.2018_Arxiv_ BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
 11. 2018_Arxiv_Learning a Discriminative Feature Network for Semantic Segmentation
-
+12. 2017_CVPR_RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
+13. 2017_CVPR_SENet
+14. 2017_Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
 
 
 # Object Detection
