@@ -23,7 +23,8 @@
 22. 2018_ECCV_PSANet
 23. SOLO (outperform the performence of MaskRCNN by He)
 24. 2019_CVPR_APCNet
-
+25. 2020_CVPR_GhostNet 
+26. 2019_ICCV_ACNet (SOTA)
 
 
 
