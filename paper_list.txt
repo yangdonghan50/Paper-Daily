@@ -1,31 +1,34 @@
 # Semantic Segmentation
-1. Deep Semantic Segmentation of Natural and Medical Images: A Review
-2. ICENet?
-3. Fast-SCNN: Fast Semantic Segmentation Network
-4. SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection
-5. HRNet!!!!!!
-6. 2019_Arxiv_FastFCN
-7. 2018_CVPR_DenseASPP
-8. 2017_CVPR_PointNet
-9. * 2018_ECCV_ICNet (High resolution Images)
-10.2018_Arxiv_ BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
+1.  Deep Semantic Segmentation of Natural and Medical Images: A Review
+2.  ICENet?
+3.  Fast-SCNN: Fast Semantic Segmentation Network
+4.  SINet: A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection
+    HRNet!!!!!!
+6.  2019_Arxiv_FastFCN
+7.  2018_CVPR_DenseASPP
+8.  2017_CVPR_PointNet
+    2018_ECCV_ICNet (High resolution Images)
+    2018_Arxiv_ BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation
 11. 2018_Arxiv_Learning a Discriminative Feature Network for Semantic Segmentation
 12. 2017_CVPR_RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
-13. * 2017_CVPR_SENet
+    2017_CVPR_SENet
 14. 2017_Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network
 15 .2019_ICCV_Oral_Expectation-Maximization Attention Networks for Semantic Segmentation
 16. Fast-SCNN
 17. ShelfNet
 18. LightNet
 19. LightNet++
-20. OCNet:Object Context Network for Scene Parsing(OCNet)
+    OCNet:Object Context Network for Scene Parsing(OCNet)
 21. EMANet
 22. 2018_ECCV_PSANet
 23. SOLO (outperform the performence of MaskRCNN by He)
 24. 2019_CVPR_APCNet
 25. 2020_CVPR_GhostNet 
 26. 2019_ICCV_ACNet (SOTA)
-
+    Non-local
+28. self-attension
+29. ISA
+30. 2020_CVPR_polar_mask
 
 
 
